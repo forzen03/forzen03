@@ -22,14 +22,10 @@
 
 ## 🎯 Current Focus
 
-```javascript
-const currentGoals = {
-  building: "Full-Stack Web Applications",
-  backend: "Spring Boot & REST APIs",
-  frontend: "React & Modern JavaScript",
-  learning: "Software Architecture & System Design"
-};
-```
+**Building Full-Stack Web Applications** with a focus on:
+- Backend development using **Spring Boot & REST APIs**
+- Frontend development using **React & Modern JavaScript**  
+- Software Architecture & System Design principles
 
 ---
 
@@ -81,9 +77,9 @@ const currentGoals = {
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[Car Factory Management](https://github.com/forzen03/car_factory_management)** | Enterprise management system | Java, MySQL |
-| **[Bookshop](https://github.com/forzen03/Bookshop_Project)** | E-commerce bookstore application | Full-Stack |
+| **[Bookshop](https://github.com/forzen03/Bookshop_Project)** | E-commerce bookstore application | Front-End |
 | **[Data Structure](https://github.com/forzen03/Data_Structure_project)** | Data structures implementation & analysis | Java |
-| **[Coffee System GUI](https://github.com/forzen03/Project_Coffee_System_GUI)** | Point of sale system with GUI | Java |
+| **[Coffee System GUI](https://github.com/forzen03/Project_Coffee_System_GUI)** | Point of sale system with GUI | Java Swing |
 | **[BMI Calculator](https://github.com/forzen03/bmi_calculator)** | Health tracking mobile app | Dart, Flutter |
 
 ---
@@ -99,20 +95,6 @@ My goal is to become a highly skilled **Full-Stack Web Application Developer**, 
 - ⚙️ Building robust backend systems
 - 🎨 Creating clean, intuitive frontend experiences
 - 🔧 Understanding systems from the ground up
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=forzen03&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forzen03&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=forzen03&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
