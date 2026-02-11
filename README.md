@@ -108,9 +108,11 @@ My goal is to become a highly skilled **Full-Stack Web Application Developer**, 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=forzen03&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=forzen03&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=forzen03&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forzen03&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=forzen03&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
