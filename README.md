@@ -78,6 +78,9 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[Car Factory Management](https://github.com/forzen03/car_factory_management)** | Enterprise management system | Java, MySQL |
+| **[Clinic Management System](https://github.com/forzen03/Clinic-Management-System)** | Healthcare management system | Java |
+| **[Lost and Found System](https://github.com/forzen03/lost-and-found-system)** | Item tracking and recovery system | Web Development |
+| **[Working Memory Research](https://github.com/forzen03/working-memory-research)** | Cognitive research application | Research Project |
 | **[Bookshop](https://github.com/forzen03/Bookshop_Project)** | E-commerce bookstore application | Front-End |
 | **[Data Structure](https://github.com/forzen03/Data_Structure_project)** | Data structures implementation & analysis | Java |
 | **[Coffee System GUI](https://github.com/forzen03/Project_Coffee_System_GUI)** | Point of sale system with GUI | Java Swing |
