@@ -71,6 +71,7 @@
 | **[pipex](https://github.com/forzen03/pipex)** | Unix pipe mechanism implementation | ✅ Complete |
 | **[so_long](https://github.com/forzen03/so_long)** | 2D game development | ✅ Complete |
 | **[philosophers](https://github.com/forzen03/philosophers)** | Multithreading & synchronization | ✅ Complete |
+| **[minishell](https://github.com/forzen03/Minishell)** | Unix shell implementation | ✅ Complete |
 
 ### 🔶 Academic & Personal Projects
 > *Applying modern development practices*
